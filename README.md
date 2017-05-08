@@ -1,24 +1,23 @@
-# Swimming-Fish
-                                      SWIMMING FISH
-                            (project done in srishti 2017)
+   SWIMMING FISH
+ (project done in srishti 2017)
 
 Abstract :-
 Our Project Swimming fish is aimed for copy the motion of a fish as natural as possible.  Similar to a fish it moves by motion of the 4 sections of the fish.  Different sections of the fish are provided with motion using servo motors instructed using an preprogrammed arduino.  Due to its natural motion it can be used for survey without noticed.
 
 Team members :-
-1.      PIYUSH BINDAL(EE 2nd year)
-2.      AMAN KUMAR CHOUDHARY(EE 2nd year)
-3.      GAURAV KUMAR SINGH(EE 2nd year)
-4.      APURV PANDIT (ME 3rd year)
-5.      Piyush Tekchandani(ME 3rd year)
-6.      Raghav Mohta(ME 3rd year)
-7.      Sarang Nagwanshi(ME 3rd year)
-8.      Prashant kumar (ME 3rd year)
+1.PIYUSH BINDAL(EE 2nd year)
+2.AMAN KUMAR CHOUDHARY(EE 2nd year)
+3.GAURAV KUMAR SINGH(EE 2nd year)
+4.APURV PANDIT (ME 3rd year)
+5.Piyush Tekchandani(ME 3rd year)
+6.Raghav Mohta(ME 3rd year)
+7.Sarang Nagwanshi(ME 3rd year)
+8.Prashant kumar (ME 3rd year)
  
 Hardware :-
-1.      Dual shaft Servo motors - 4
-2.      7.4V battery – 1
-3.      Arduino nano
+1.Dual shaft Servo motors - 4
+2.7.4V battery – 1
+3.Arduino nano
 
 Application :-
 Swimming fish is designed to be look as natural as possible for avoid detection. Every section of fish moves in a way to provide the motion to the fish in the desired direction. It can be used as decorations because of its motion it looks real and don’t need any food only needs charging. By using a bluetooth device it can also be controlled by phones and can be used for surveys in less amount of water
