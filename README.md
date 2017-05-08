@@ -13,7 +13,7 @@ Team members :-
 5.      Piyush Tekchandani(ME 3rd year)
 6.      Raghav Mohta(ME 3rd year)
 7.      Sarang Nagwanshi(ME 3rd year)
-8. Prashant kumar (ME 3rd year)
+8.      Prashant kumar (ME 3rd year)
  
 Hardware :-
 1.      Dual shaft Servo motors - 4
