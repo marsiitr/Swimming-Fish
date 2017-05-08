@@ -6,7 +6,7 @@ Abstract :-
 Our Project Swimming fish is aimed for copy the motion of a fish as natural as possible.  Similar to a fish it moves by motion of the 4 sections of the fish.  Different sections of the fish are provided with motion using servo motors instructed using an preprogrammed arduino.  Due to its natural motion it can be used for survey without noticed.
 
 Team members :-
-1.      PIYUSH BINDAL(EE 2nd year)
+1.      PIYUSH BINDAL(EE 2nd year)
 2.      AMAN KUMAR CHOUDHARY(EE 2nd year)
 3.      GAURAV KUMAR SINGH(EE 2nd year)
 4.      APURV PANDIT (ME 3rd year)
@@ -16,7 +16,7 @@ Team members :-
 8. Prashant kumar (ME 3rd year)
  
 Hardware :-
-1.      Dual shaft Servo motors - 4
+1.      Dual shaft Servo motors - 4
 2.      7.4V battery – 1
 3.      Arduino nano
 
