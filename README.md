@@ -7,15 +7,15 @@ Our Project Swimming fish is aimed for copy the motion of a fish as natural as p
 
 
 Team members :-
-PIYUSH BINDAL(EE 2nd year)
-AMAN KUMAR CHOUDHARY(EE 2nd year)
-GAURAV KUMAR SINGH(EE 2nd year)
-APURV PANDIT (ME 3rd year)
-Piyush Tekchandani(ME 3rd year)
-Raghav Mohta(ME 3rd year)
-Sarang Nagwanshi(ME 3rd year)
-Prashant kumar (ME 3rd year)
- 
+1. PIYUSH BINDAL(EE 2nd year)
+2. AMAN KUMAR CHOUDHARY(EE 2nd year)
+3. GAURAV KUMAR SINGH(EE 2nd year)
+4. APURV PANDIT (ME 3rd year)
+5. Piyush Tekchandani(ME 3rd year)
+6. Raghav Mohta(ME 3rd year)
+7. Sarang Nagwanshi(ME 3rd year)
+8. Prashant kumar (ME 3rd year)
+9. Shivam Paliwal(CE 1st year 
 
 Hardware :-
 1. Dual shaft Servo motors - 4
