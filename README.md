@@ -10,7 +10,9 @@ Our Project Swimming fish is aimed for copy the motion of a fish as natural as p
 1. Dual shaft Servo motors - 4
 2. 7.4V battery – 1
 3. Arduino nano
-
+4. switch
+5. breadboard
+6. connecting wires
 
 # Application :-
 Swimming fish is designed to be look as natural as possible for avoid detection. Every section of fish moves in a way to provide the motion to the fish in the desired direction. It can be used as decorations because of its motion it looks real and don’t need any food only needs charging. By using a bluetooth device it can also be controlled by phones and can be used for surveys in less amount of water
