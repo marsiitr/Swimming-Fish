@@ -6,17 +6,6 @@ Abstract :-
 Our Project Swimming fish is aimed for copy the motion of a fish as natural as possible.  Similar to a fish it moves by motion of the 4 sections of the fish.  Different sections of the fish are provided with motion using servo motors instructed using an preprogrammed arduino.  Due to its natural motion it can be used for survey without noticed.
 
 
-Team members :-
-1. PIYUSH BINDAL(EE 2nd year)
-2. AMAN KUMAR CHOUDHARY(EE 2nd year)
-3. GAURAV KUMAR SINGH(EE 2nd year)
-4. APURV PANDIT (ME 3rd year)
-5. Piyush Tekchandani(ME 3rd year)
-6. Raghav Mohta(ME 3rd year)
-7. Sarang Nagwanshi(ME 3rd year)
-8. Prashant kumar (ME 3rd year)
-9. Shivam Paliwal(CE 1st year 
-
 Hardware :-
 1. Dual shaft Servo motors - 4
 2. 7.4V battery – 1
@@ -35,3 +24,13 @@ Electrical design :-
 It contains arduino which provide instruction to all the servo motors to rotate by which fish moves in desired direction. Arduino code are preinstalled in it. A battery is connected through switch to the breadboard . arduino and servo +5V and 0V pins are connected to the battery using breadboard. Control pins of servo are connected to the arduino directly.
 
 
+Team members :-
+1. PIYUSH BINDAL(EE 2nd year)
+2. AMAN KUMAR CHOUDHARY(EE 2nd year)
+3. GAURAV KUMAR SINGH(EE 2nd year)
+4. APURV PANDIT (ME 3rd year)
+5. Piyush Tekchandani(ME 3rd year)
+6. Raghav Mohta(ME 3rd year)
+7. Sarang Nagwanshi(ME 3rd year)
+8. Prashant kumar (ME 3rd year)
+9. Shivam Paliwal(CE 1st year 
