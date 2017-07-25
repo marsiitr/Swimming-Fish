@@ -35,4 +35,4 @@ It contains arduino which provide instruction to all the servo motors to rotate 
 6. Raghav Mohta(ME 3rd year)
 7. Sarang Nagwanshi(ME 3rd year)
 8. Prashant kumar (ME 3rd year)
-9. Shivam Paliwal(CE 1st year 
+9. Shivam Paliwal(CE 1st year)
