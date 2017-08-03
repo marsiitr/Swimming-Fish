@@ -31,7 +31,7 @@ It contains arduino which provide instruction to all the servo motors to rotate 
 # Team members :-
 1. PIYUSH BINDAL(EE 2nd year)
 2. AMAN KUMAR CHOUDHARY(EE 2nd year)
-3. GAURAV KUMAR SINGH(EE 2nd year)
+3. GAURAV SINGH(EE 2nd year)
 4. APURV PANDIT (ME 3rd year)
 5. Piyush Tekchandani(ME 3rd year)
 6. Raghav Mohta(ME 3rd year)
